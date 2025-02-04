@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm sniper0110! 👋
 
-<!--
-**sniper0110/sniper0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an AI developer with a focus on MedTech. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
+- Developing and deploying AI solutions for medical imaging.
+- Co-running pycad.co
+- Figuring out how AI can help our clients in MedTech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Deepening my knowledge in MLOps.
+- Exploring machine learning and AI to integrate intelligent features into MedTech applications.
+- Enhancing my skills in running a business.
+
+## 📫 How to Reach Me
+- Email: [nourislam@pycad.co]
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nour-islam-mokhtari/)
+- X: [@your_twitter_handle](https://x.com/NourIslamMo)
+
+Thank you for visiting my profile! If you'd like me to help you with your next medical imaging project then feel free to reach out on LinkedIn or by email.
