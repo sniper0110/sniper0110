@@ -1,4 +1,4 @@
-# Hi there, I'm sniper0110! 👋
+# Hi there, my name is Islam! 👋
 
 Welcome to my GitHub profile! I'm an AI developer with a focus on MedTech. Here's a little bit about me:
 
