@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm an AI developer with a focus on MedTech. Here'
 
 ## 📫 How to Reach Me
 - Email: [nourislam@pycad.co]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nour-islam-mokhtari/)
-- X: [@your_twitter_handle](https://x.com/NourIslamMo)
+- [LinkedIn](https://www.linkedin.com/in/nour-islam-mokhtari/)
+- X: [@NourIslamMo](https://x.com/NourIslamMo)
 
 Thank you for visiting my profile! If you'd like me to help you with your next medical imaging project then feel free to reach out on LinkedIn or by email.
